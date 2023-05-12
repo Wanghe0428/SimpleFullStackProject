@@ -1,0 +1,2 @@
+# SimpleFullStackProject
+用于学习前后端开发的一个简易全栈demo，后端涉及到springBoot+MyBatis+mysql，开发工具为IDEA；前端使用vue进行页面展示。
